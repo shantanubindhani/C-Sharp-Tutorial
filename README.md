@@ -11,6 +11,10 @@
 </br>While The Class Library is a collection for Classes, interfaces, and Value types, which can allow you to access specific tasks like data collection, manipulating text, file access etc.
 </p></h4>
 
+</br></br>
+<h3 align = "left"> <b><u>NOTE :</u></b></br> the C# code file has .cs extension,</br> hence you should be looking for a file named 'Program.cs' inside the lesson directories/</h3>
+</br></br>
+
 <h2 align = "left"> Table of Contents : </h2>
 <ul align = "left">
     <li> your go-to syntax (lesson1)</li>

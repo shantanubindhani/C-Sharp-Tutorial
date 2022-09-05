@@ -1,0 +1,15 @@
+/home/shantanu1404/Desktop/c#Tutorial/lesson1/obj/Debug/net6.0/lesson1.csproj.AssemblyReference.cache
+/home/shantanu1404/Desktop/c#Tutorial/lesson1/obj/Debug/net6.0/lesson1.GeneratedMSBuildEditorConfig.editorconfig
+/home/shantanu1404/Desktop/c#Tutorial/lesson1/obj/Debug/net6.0/lesson1.AssemblyInfoInputs.cache
+/home/shantanu1404/Desktop/c#Tutorial/lesson1/obj/Debug/net6.0/lesson1.AssemblyInfo.cs
+/home/shantanu1404/Desktop/c#Tutorial/lesson1/obj/Debug/net6.0/lesson1.csproj.CoreCompileInputs.cache
+/home/shantanu1404/Desktop/c#Tutorial/lesson1/bin/Debug/net6.0/lesson1
+/home/shantanu1404/Desktop/c#Tutorial/lesson1/bin/Debug/net6.0/lesson1.deps.json
+/home/shantanu1404/Desktop/c#Tutorial/lesson1/bin/Debug/net6.0/lesson1.runtimeconfig.json
+/home/shantanu1404/Desktop/c#Tutorial/lesson1/bin/Debug/net6.0/lesson1.dll
+/home/shantanu1404/Desktop/c#Tutorial/lesson1/bin/Debug/net6.0/lesson1.pdb
+/home/shantanu1404/Desktop/c#Tutorial/lesson1/obj/Debug/net6.0/lesson1.dll
+/home/shantanu1404/Desktop/c#Tutorial/lesson1/obj/Debug/net6.0/refint/lesson1.dll
+/home/shantanu1404/Desktop/c#Tutorial/lesson1/obj/Debug/net6.0/lesson1.pdb
+/home/shantanu1404/Desktop/c#Tutorial/lesson1/obj/Debug/net6.0/lesson1.genruntimeconfig.cache
+/home/shantanu1404/Desktop/c#Tutorial/lesson1/obj/Debug/net6.0/ref/lesson1.dll
